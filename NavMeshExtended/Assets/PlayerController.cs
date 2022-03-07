@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         //camera = GameObject.FindObjectOfType<Camera>();
-        agent = gameObject.GetComponent<NavMeshAgent>();
+        //agent = gameObject.GetComponent<NavMeshAgent>();
     }
     void Update()
     {
